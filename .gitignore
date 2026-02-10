@@ -1,0 +1,18 @@
+# Objetos de compilação
+*.o
+*.obj
+
+# Executável
+cterm
+
+# Backup e swap do editor
+*~
+*.swp
+
+# Arquivos temporários do Termux/Linux
+*.log
+*.tmp
+
+# Diretórios de build
+bin/
+build/
